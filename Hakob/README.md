@@ -1,2 +1,2 @@
-##This is Hakob's file
+# This is Hakob's folder
 # Welcome
